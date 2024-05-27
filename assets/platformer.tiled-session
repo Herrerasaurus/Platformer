@@ -1,0 +1,89 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#backgroundCastles": {
+            "scaleInDock": 1
+        },
+        "#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "#tilemap_packed": {
+            "scaleInDock": 1.6594
+        },
+        "#tilemap_packed_1": {
+            "scaleInDock": 2.6861
+        },
+        "platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2.3531,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 425.60877140792996,
+                "y": 383.7490969359568
+            }
+        },
+        "platformer-level-1.tmx#backgroundCastles": {
+            "scaleInDock": 0.5965
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1.8381
+        },
+        "platformer-level-1.tmx#tilemap_packed": {
+            "scaleInDock": 1.9869
+        },
+        "platformer-level-1.tmx#tilemap_packed_2": {
+            "scaleInDock": 1.8381
+        },
+        "untitled.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 8.8753,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 540.9957973251609,
+                "y": 463.98431602312036
+            }
+        },
+        "untitled.tmx#backgroundCastles": {
+            "scaleInDock": 1
+        },
+        "untitled.tmx#tilemap_packed": {
+            "scaleInDock": 1.6594
+        },
+        "untitled.tmx#tilemap_packed_2": {
+            "scaleInDock": 1.6594
+        }
+    },
+    "last.exportedFilePath": "/Users/celestial/CMPM120/PlatformImprovement/assets",
+    "last.imagePath": "/Users/celestial/CMPM120/PlatformImprovement/assets",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 120,
+    "openFiles": [
+    ],
+    "project": "platformer.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
